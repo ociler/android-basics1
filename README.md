@@ -1,3 +1,3 @@
 android-basics
 
-First android basics done iny New Work bussiness practices
+First android basics done in my New Work bussiness practices
